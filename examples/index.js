@@ -1,4 +1,4 @@
-var ex1 = require('./example1');
+var ex1 = require('./index');
 
 module.exports ={
   ex1: ex1,
